@@ -6,8 +6,17 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/MainMenu.unity
+    guid: dcc239d713fa646bb8588438338701f5
+  - enabled: 1
+    path: Assets/Scenes/DesertRun.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/StageSelect.unity
+    guid: 26573378ce1f04d8ea03fed49e500746
+  - enabled: 1
+    path: Assets/Scenes/Information.unity
+    guid: 7fe31b6b3cbda465d9373603fa13744b
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
